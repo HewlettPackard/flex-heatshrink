@@ -1,0 +1,7 @@
+# Ignore generated files.
+Example
+FhdTest
+FhdTestSize
+gcc.check
+gcc.hs
+
