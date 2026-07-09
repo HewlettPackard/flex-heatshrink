@@ -1,5 +1,7 @@
 ## HPE Contribution Guide
 
+# IMPORTANT:  This project is no longer maintained
+
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.

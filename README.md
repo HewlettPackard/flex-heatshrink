@@ -2,6 +2,8 @@
 <!-- SPDX-License-Identifier:  MIT -->
 # Flexible Heatshrink Decoder (FHD)
 
+# IMPORTANT:  This project is no longer maintained
+
 This is a single-file-header version of the [heatshrink](https://github.com/atomicobject/heatshrink/)
 decompression algorithm, rewritten for embedded and application-specific environments, able
 to be configured for in-place decompression, chunked operation, callbacks, byte-by-byte
